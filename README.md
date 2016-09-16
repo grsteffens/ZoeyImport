@@ -21,7 +21,7 @@ Each CSV file used to import <b>products</b> should have 12 columns, each of whi
         <ol>
           <li>simple</li>
           <li>configurable</li>
-          <li>group</li>
+          <li>group /* couldnt get to work */</li>
           <li>bundle</li>
           <li>virtual</li>
           <li>downloadable</li>
