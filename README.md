@@ -69,4 +69,59 @@ How to format CSV files so they can be imported into Zoey
     </ul>
   </li>
   
+  <li>
+    <b>tax_class_id</b>
+    <ul>
+      <li>
+        Whether or not to charge tax for this product.
+        <ol>
+          <li>Not Taxable/ None = 1</li>
+          <li>Taxable = 2</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>visibility</b>
+    <ul>
+      <li>
+        How your customers can find this product.
+        <ol>
+          <li>Not Visible Individually = 1</li>
+          <li>Catalog Only = 2</li>
+          <li>Search Only = 3</li>
+          <li>Catalog and Search = 4</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>weight</b>
+    <ul>
+      <li>The weight of your product expressed only as a number.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>qty</b>
+    <ul>
+      <li>Quantity available to purchase</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>is_in_stock</b>
+    <ul>
+      <li>
+        If this product is in-stock or not.
+        <ol>
+          <li>1 = In Stock</li>
+          <li>0 = Out of Stock</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  
 </ol>
