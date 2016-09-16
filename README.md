@@ -22,9 +22,9 @@ How to format CSV files so they can be imported into Zoey
           <li>bundle</li>
           <li>virtual</li>
           <li>downloadable</li>
-          <li><a href="https://support.zoey.com/docs/product-types" target="_blank">More info on different types</a></li>
         </ol>
       </li>
+      <li><a href="https://support.zoey.com/docs/product-types" target="_blank">More info on different types</a></li>
     </ul>
   </li>
   
