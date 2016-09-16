@@ -9,7 +9,7 @@ Each CSV file should have 12 columns, each of which are described below:
   <li>
     <b>sku</b>
     <ul>
-      <li>This is the sku that you want to belong to the product</li>
+      <li>A <b>unique</b> value to identify your product. No two products can share the same SKU.</li>
     </ul>
   </li>
   
