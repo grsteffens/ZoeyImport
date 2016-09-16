@@ -31,8 +31,41 @@ How to format CSV files so they can be imported into Zoey
   <li>
     <b>name</b>
     <ul>
-      <li>The name of your product. By default this will also define the URL key and cannot be longer than 60 characters.
-<br><b>Name should always be UNIQUE. Having Duplicate Names causes SEO Issues.</b></li>
+      <li>The name of your product. By default this will also define the URL key and cannot be longer than 60 characters. <b>Name should always be UNIQUE. Having Duplicate Names causes SEO Issues.</b></li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>short_description</b>
+    <ul>
+      <li>A short description of your product found by the Add to Cart button.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>description</b>
+    <ul>
+      <li>A detailed description of your product.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>price</b>
+    <ul>
+      <li>The base price of the product, prior to any sales or discounts.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>status</b>
+    <ul>
+      <li>
+        Whether or not to show this product in your store.
+        <ol>
+          <li>enabled = 1</li>
+          <li>enabled = 2</li>
+        </ol>
+      </li>
     </ul>
   </li>
   
