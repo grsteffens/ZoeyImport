@@ -2,5 +2,10 @@
 How to format CSV files so they can be imported into Zoey
 
 <ol>
-  <li>test</li>
+  <li>
+    sku
+    <ul>
+      <li>This is the sku that you want to belong to the product</li>
+    </ul>
+  </li>
 </ol>
