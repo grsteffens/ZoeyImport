@@ -21,10 +21,10 @@ Each CSV file used to import <b>products</b> should have 12 columns, each of whi
         <ol>
           <li>simple</li>
           <li>configurable</li>
-          <li>group /* couldnt get to work */</li>
-          <li>bundle</li>
-          <li>virtual</li>
-          <li>downloadable</li>
+          <li>group (couldnt get to work)</li>
+          <li>bundle (couldnt get to work)</li>
+          <li>virtual (couldnt get to work)</li>
+          <li>downloadable (couldnt get to work)</li>
         </ol>
       </li>
       <li><a href="https://support.zoey.com/docs/product-types" target="_blank">More info on different types</a></li>
@@ -78,7 +78,7 @@ Each CSV file used to import <b>products</b> should have 12 columns, each of whi
       <li>
         Whether or not to charge tax for this product.
         <ol>
-          <li>Not Taxable/ None = 1</li>
+          <li>Not Taxable/ None = 1 (couldnt get to work)</li>
           <li>Taxable = 2</li>
         </ol>
       </li>
