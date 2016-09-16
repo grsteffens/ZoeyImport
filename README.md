@@ -66,7 +66,7 @@ Each CSV file should have 12 columns, each of which are described below:
         Whether or not to show this product in your store.
         <ol>
           <li>enabled = 1</li>
-          <li>enabled = 2</li>
+          <li>disabled = 2</li>
         </ol>
       </li>
     </ul>
