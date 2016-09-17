@@ -1,0 +1,12 @@
+sku,image,small_image,thumbnail,_media_image,_media_position,_media_is_disabled
+a-001,/main_image1.jpg,/main_image1.jpg,/main_image1.jpg,/media_img1.jpg,2,0
+,,,,/media_img2.jpg,3,0
+,,,,/media_img3.jpg,1,0
+,,,,/media_img4.jpg,4,0
+a-002,/main_image2.jpg,/main_image2.jpg,/main_image2.jpg,/media_img5.jpg,1,0
+a-003,/main_image3.jpg,/main_image3.jpg,/main_image3.jpg,/media_img6.jpg,1,0
+a-004,/main_image4.jpg,/main_image4.jpg,/main_image4.jpg,/media_img7.jpg,1,0
+a-005,/main_image5.jpg,/main_image5.jpg,/main_image5.jpg,/media_img8.jpg,1,0
+a-006,/main_image6.jpg,/main_image6.jpg,/main_image6.jpg,/media_img9.jpg,1,0
+a-007,/main_image7.jpg,/main_image7.jpg,/main_image7.jpg,/media_img10.jpg,1,0
+a-008,/main_image8.jpg,/main_image8.jpg,/main_image8.jpg,/media_img11.jpg,1,0
