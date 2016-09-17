@@ -123,3 +123,60 @@ Each CSV file used to import <b>products</b> should have 12 columns, each of whi
   </li>
   
 </ol>
+
+<hr>
+
+Each CSV file used to import <b>images</b> should have 7 columns, each of which are described below:
+
+<ol>
+
+  <li>
+    <b>sku</b>
+    <ul>
+      <li><b>This is a required attribute.</b> Without a SKU the images will not have a place to move to. This SKU must already be in your Products List, either through a CSV Upload or manual creation</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>image</b>
+    <ul>
+      <li>This will be your Main Image, the main one that displays on the Products Page.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>small_image</b>
+    <ul>
+      <li>This should be the same value as your Main Image selection.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>thumbnail</b>
+    <ul>
+      <li>This should be the same value as your Main Image selection.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>_media_image (optional)</b>
+    <ul>
+      <li>Use this to assign multiple images to your product to show various views. These will appear as thumbnails on the Products Page</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>_media_position (optional)</b>
+    <ul>
+      <li>Use this to assign positions to your additional images. 1 will show first, followed by 2, then 3 and so on.</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>_media_is_disabled (optional)</b>
+    <ul>
+      <li>By the default this will be set to not-disabled (0). If you don't want to enable the image you can use this Header and enter 1 as a value.</li>
+    </ul>
+  </li>
+  
+</ol>
