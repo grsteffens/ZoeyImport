@@ -129,6 +129,7 @@ Each CSV file used to import <b>products</b> should have 12 columns, each of whi
 <hr>
 
 <h3><i>Importing Images</i></h3>
+<h4>In order to upload a csv file of images, the images must exist on the Zoey server first. They need to be uploaded in yout control panel then you can use the links given to each image to include them in the csv file to associate each with their respective products.</h4>
 
 Each CSV file used to import <b>images</b> should have 7 columns, each of which are described below:
 
