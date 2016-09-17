@@ -2,6 +2,8 @@
 
 This readme file talks about how to format CSV files so they can be imported into Zoey correctly.
 
+<h3><i>Importing Products</i></h3>
+
 Each CSV file used to import <b>products</b> should have 12 columns, each of which are described below:
 
 <ol>
@@ -125,6 +127,8 @@ Each CSV file used to import <b>products</b> should have 12 columns, each of whi
 </ol>
 
 <hr>
+
+<h3><i>Importing Images</i></h3>
 
 Each CSV file used to import <b>images</b> should have 7 columns, each of which are described below:
 
