@@ -1,9 +1,9 @@
 sku,_type,name,short_description,description,price,status,tax_class_id,visibility,weight,qty,is_in_stock
 a-001,simple,Sample Product 1,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",199.99,1,2,4,100,200,1
-a-002,configurable,Sample Product 2,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",239.99,1,2,2,56,2,1
-a-003,simple,Sample Product 3,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",9010.99,2,2,3,75,3,0
-a-004,configurable,Sample Product 4,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",14.99,1,2,1,50,300,1
-a-005,simple,Sample Product 5,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",900,2,2,2,23,150,0
-a-006,configurable,Sample Product 6,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",1.99,2,2,3,2,34,0
-a-007,simple,Sample Product 7,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",0.99,2,2,1,35,1000,0
-a-008,configurable,Sample Product 8,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",213.99,1,2,4,15,500,1
+a-002,configurable,Sample Product 2,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",239.99,1,2,4,56,2,1
+a-003,simple,Sample Product 3,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",9010.99,1,2,4,75,3,1
+a-004,configurable,Sample Product 4,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",14.99,1,2,4,50,300,1
+a-005,simple,Sample Product 5,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",900,1,2,4,23,150,1
+a-006,configurable,Sample Product 6,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",1.99,1,2,4,2,34,1
+a-007,simple,Sample Product 7,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",0.99,2,2,4,35,1000,1
+a-008,configurable,Sample Product 8,We are just testing these products,"This is the long description describing the product in full detail, a lot of information can go here",213.99,2,2,4,15,500,1
